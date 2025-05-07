@@ -1,0 +1,5 @@
+Class,Base Model mAP50,Fine-tuned Model mAP50,Difference (%)
+Ameloblastoma,0.7000 (70.00%),0.7510 (75.10%),7.29%
+Dentigerous cyst,0.5000 (50.00%),0.5570 (55.70%),11.40%
+Normal jaw,0.0000 (0.00%),0.0000 (0.00%),N/A
+OKC,0.3000 (30.00%),0.3570 (35.70%),19.00%

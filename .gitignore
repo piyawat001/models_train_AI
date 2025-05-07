@@ -1,0 +1,40 @@
+# ภาพและโมเดล (ไฟล์ขนาดใหญ่)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.pt
+*.pth
+*.weights
+*.onnx
+*.h5
+*.hdf5
+*.pkl
+*.npy
+*.npz
+
+# โฟลเดอร์ข้อมูลและผลลัพธ์
+/augmented_dataset/
+/Classification/
+/Segmentation/
+/efficientnet_outputs/
+/inception_outputs/
+/regnet_outputs/
+/resnet50_outputs/
+/results_*/
+/vgg16_outputs/
+/yolov11_outputs/*/weights/
+/yolov11_seg_outputs/*/weights/
+/yolov11_seg_outputs/prepared_data/
+/yolov11_seg_outputs/*_evaluate/
+/yolov11_seg_outputs/base_model_samples/
+/yolov11_seg_outputs/fine_tuned_model_samples/
+
+# ไฟล์ Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/

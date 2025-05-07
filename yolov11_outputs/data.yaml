@@ -1,0 +1,11 @@
+path: "C:\\Users\\piyaw\\OneDrive\\\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\
+  \u0E1B\\train_model\\augmented_dataset\\Classification"
+train: train
+val: val
+test: test
+names:
+  0: Ameloblastoma
+  1: Dentigerous cyst
+  2: Normal jaw
+  3: OKC
+nc: 4
